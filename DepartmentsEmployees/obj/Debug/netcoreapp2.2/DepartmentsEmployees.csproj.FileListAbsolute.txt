@@ -1,0 +1,11 @@
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.deps.json
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.runtimeconfig.json
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.runtimeconfig.dev.json
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.dll
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.pdb
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.csprojAssemblyReference.cache
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.csproj.CoreCompileInputs.cache
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.AssemblyInfoInputs.cache
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.AssemblyInfo.cs
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.dll
+C:\Users\baile\workspace\classExercises\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.pdb
